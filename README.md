@@ -37,4 +37,8 @@ Implementar o SGPAT no ServiceNow abrangendo:
 
 --- 
 
-### **6. Tecnologias usadas**
+### **6. Ferramentas e Tecnologias**
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+          
+
+          
