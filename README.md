@@ -46,8 +46,9 @@ Implementar o SGPAT no ServiceNow abrangendo:
   <img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-          
-          
-          
+--- 
+
+## Equipe 
+
 
           
