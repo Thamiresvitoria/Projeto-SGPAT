@@ -33,7 +33,18 @@ Implementar o SGPAT no ServiceNow abrangendo:
 
 ---
 
-### **5. Arquitetura do Sistema**
+### **5. Estrutura do Sistema**
+
+``` 
+    SGPAT
+      |
+      | - README.md
+      | - Frontend
+      |
+      | - Servicenow
+      |
+      |--------------------|
+```
 
 --- 
 
