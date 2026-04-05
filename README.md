@@ -62,5 +62,9 @@ Implementar o SGPAT no ServiceNow abrangendo:
 
 ## Equipe 
 
+- @mayaedv
+- @thais-vsn
+- @Thamiresvitoria
+
 
           
