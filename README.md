@@ -39,7 +39,7 @@ Implementar o SGPAT no ServiceNow abrangendo:
     SGPAT
       |
       | - README.md
-      | - Frontend
+      | - ServiceNow
       |
       | - Servicenow
       |
